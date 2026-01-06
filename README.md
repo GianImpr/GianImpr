@@ -11,7 +11,3 @@ Currently working on a fangame called ***Castlevania: Remnants of Darkness***.
 
 ## Familiar with
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,dotnet,godot,git,github,mysql,postgres,windows,linux)](https://skillicons.dev)
-
-
-## How much have I contributed so far?
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianImpr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
